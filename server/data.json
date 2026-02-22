@@ -1,0 +1,68 @@
+[
+  {
+    "_id": "1",
+    "user": "user_123",
+    "text": "Recently I've been exploring the true meaning of contentment. My personal research has lead me to conclude that grounding and contentment are similar features. But when you analyzed closer, one can find vast differences and variables. I've decided that I don't actually believe contentment is an asset to possess.\n\nI think contentment breeds laziness and lack of productivity. When we are content, we are slack. Contentment insinuates we have already achieved a certain amount of success, and therefore we are comfortable with our efforts and will cease to persist in our mission with the same drive and determination as we once held.",
+    "timestamp": "2024-11-24T10:30:00Z",
+    "mood_score": 7,
+    "article_length": 284,
+    "createdAt": "2024-11-24T10:30:00Z",
+    "updatedAt": "2024-11-24T10:30:00Z",
+    "tag": "reflective, growth, mindfulness, philosophy"
+  },
+  {
+    "_id": "2",
+    "user": "user_123",
+    "text": "I am responsible for my own happiness. No one else can determine how I feel or what I do. Today I realized that I've been putting too much weight on external validation.",
+    "timestamp": "2024-11-23T14:15:00Z",
+    "mood_score": 4,
+    "article_length": 123,
+    "createdAt": "2024-11-23T14:15:00Z",
+    "updatedAt": "2024-11-23T14:15:00Z",
+    "tag": "self-reflection, boundaries, personal"
+  },
+  {
+    "_id": "3",
+    "user": "user_123",
+    "text": "The band was so amazing that I've found myself going back to replay those moments. The music was incredible and I felt truly present in that moment.",
+    "timestamp": "2024-11-22T22:00:00Z",
+    "mood_score": 9,
+    "article_length": 98,
+    "createdAt": "2024-11-22T22:00:00Z",
+    "updatedAt": "2024-11-22T22:00:00Z",
+    "tag": "music, experiences, happiness, joyful"
+  },
+  {
+    "_id": "4",
+    "user": "user_123",
+    "text": "That was the best day in my whole life. Everything went according to plan and I felt accomplished. The project deadline was met and my team celebrated the achievement together.",
+    "timestamp": "2024-11-21T16:45:00Z",
+    "mood_score": 10,
+    "article_length": 142,
+    "createdAt": "2024-11-21T16:45:00Z",
+    "updatedAt": "2024-11-21T16:45:00Z",
+    "tag": "achievement, work, success, motivation"
+  },
+  {
+    "_id": "5",
+    "user": "user_123",
+    "text": "It all started when I took a one-way flight from Warsaw to explore the continent. The journey has been transformative and eye-opening. Every city brought new perspectives and memorable encounters.",
+    "timestamp": "2024-11-20T09:20:00Z",
+    "mood_score": 8,
+    "article_length": 167,
+    "createdAt": "2024-11-20T09:20:00Z",
+    "updatedAt": "2024-11-20T09:20:00Z",
+    "tag": "travel, adventure, discovery, exploration"
+  },
+  {
+    "_id": "6",
+    "user": "user_123",
+    "text": "So finally, I was able to talk to Barbara about last week. She's been such an important part of my life. Our conversation reminded me of how valuable these connections are.",
+    "timestamp": "2024-11-19T11:30:00Z",
+    "mood_score": 8,
+    "article_length": 142,
+    "createdAt": "2024-11-19T11:30:00Z",
+    "updatedAt": "2024-11-19T11:30:00Z",
+    "tag": "friendship, connection, gratitude, social"
+  }
+]

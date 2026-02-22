@@ -1,0 +1,40 @@
+{
+  "dailyCheckIn": {
+    "date": "2025-11-23",
+    "emotionalTone": "anxious",
+    "validation": "It makes sense you feel anxious today — you're managing a lot. You have three project deadlines, a team meeting, and personal commitments all converging.",
+    "quickFixes": [
+      {
+        "id": 1,
+        "title": "Breathing Exercise",
+        "description": "Take 5 minutes for a grounding breath exercise",
+        "duration": "5 min",
+        "icon": "wind"
+      },
+      {
+        "id": 2,
+        "title": "Short Walk",
+        "description": "Step outside for a quick walk to reset",
+        "duration": "10 min",
+        "icon": "footprints"
+      },
+      {
+        "id": 3,
+        "title": "Gratitude Prompt",
+        "description": "Write down 3 things you're grateful for",
+        "duration": "3 min",
+        "icon": "sparkles"
+      },
+      {
+        "id": 4,
+        "title": "Progressive Muscle Relaxation",
+        "description": "Ease tension with guided relaxation",
+        "duration": "7 min",
+        "icon": "zap"
+      }
+    ],
+    "guidedSupport": "When you're feeling overwhelmed, try breaking your tasks into smaller chunks. You've handled stressful situations like this before — you have the skills.",
+    "miniInsight": "You mentioned feeling rushed 3 times today. Consider batching similar tasks together tomorrow to reduce context switching.",
+    "moodScore": 5
+  }
+}

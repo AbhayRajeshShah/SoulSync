@@ -1,0 +1,58 @@
+{
+  "weeklyEnergyData": {
+    "week": "Nov 17-23, 2025",
+    "energyDrains": [
+      {
+        "id": 1,
+        "factor": "Work Stress",
+        "impact": 85,
+        "frequency": "5 days",
+        "icon": "briefcase"
+      },
+      {
+        "id": 2,
+        "factor": "Sleep Deprivation",
+        "impact": 72,
+        "frequency": "3 nights",
+        "icon": "moon"
+      },
+      {
+        "id": 3,
+        "factor": "Social Conflict",
+        "impact": 45,
+        "frequency": "1 incident",
+        "icon": "users"
+      }
+    ],
+    "energyBoosters": [
+      {
+        "id": 1,
+        "factor": "Morning Exercise",
+        "impact": 88,
+        "frequency": "4 days",
+        "icon": "activity"
+      },
+      {
+        "id": 2,
+        "factor": "Time with Friends",
+        "impact": 76,
+        "frequency": "2 days",
+        "icon": "heart"
+      },
+      {
+        "id": 3,
+        "factor": "Meditation/Mindfulness",
+        "impact": 65,
+        "frequency": "Daily",
+        "icon": "zen"
+      }
+    ],
+    "behavioral": {
+      "averageSleep": 6.5,
+      "exerciseDays": 4,
+      "socialActivities": 2,
+      "stressfulMoments": 5
+    },
+    "summary": "Your energy was mostly drained by work stress and lack of sleep, but exercise and quality time with friends gave you the biggest boosts. Try to prioritize sleep this week and maintain your exercise routine."
+  }
+}

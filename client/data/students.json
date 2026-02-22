@@ -1,0 +1,92 @@
+{
+  "students": [
+    {
+      "_id": "student_001",
+      "name": "Sarah Johnson",
+      "email": "sarah.j@university.edu",
+      "role": "student",
+      "streakCount": 12,
+      "points": 1240,
+      "lastJournalDate": "2025-11-26",
+      "createdAt": "2025-09-01",
+      "updatedAt": "2025-11-26"
+    },
+    {
+      "_id": "student_002",
+      "name": "Marcus Chen",
+      "email": "marcus.chen@university.edu",
+      "role": "student",
+      "streakCount": 8,
+      "points": 856,
+      "lastJournalDate": "2025-11-24",
+      "createdAt": "2025-09-05",
+      "updatedAt": "2025-11-24"
+    },
+    {
+      "_id": "student_003",
+      "name": "Emma Rodriguez",
+      "email": "emma.r@university.edu",
+      "role": "student",
+      "streakCount": 21,
+      "points": 2150,
+      "lastJournalDate": "2025-11-26",
+      "createdAt": "2025-08-28",
+      "updatedAt": "2025-11-26"
+    },
+    {
+      "_id": "student_004",
+      "name": "James Wilson",
+      "email": "james.w@university.edu",
+      "role": "student",
+      "streakCount": 3,
+      "points": 420,
+      "lastJournalDate": "2025-11-20",
+      "createdAt": "2025-09-10",
+      "updatedAt": "2025-11-20"
+    },
+    {
+      "_id": "student_005",
+      "name": "Olivia Thompson",
+      "email": "olivia.t@university.edu",
+      "role": "student",
+      "streakCount": 15,
+      "points": 1560,
+      "lastJournalDate": "2025-11-25",
+      "createdAt": "2025-09-02",
+      "updatedAt": "2025-11-25"
+    },
+    {
+      "_id": "student_006",
+      "name": "David Kumar",
+      "email": "david.k@university.edu",
+      "role": "student",
+      "streakCount": 0,
+      "points": 280,
+      "lastJournalDate": null,
+      "createdAt": "2025-09-12",
+      "updatedAt": "2025-11-18"
+    },
+    {
+      "_id": "student_007",
+      "name": "Sophie Bennett",
+      "email": "sophie.b@university.edu",
+      "role": "student",
+      "streakCount": 19,
+      "points": 1890,
+      "lastJournalDate": "2025-11-26",
+      "createdAt": "2025-08-30",
+      "updatedAt": "2025-11-26"
+    },
+    {
+      "_id": "student_008",
+      "name": "Alex Martinez",
+      "email": "alex.m@university.edu",
+      "role": "student",
+      "streakCount": 6,
+      "points": 620,
+      "lastJournalDate": "2025-11-23",
+      "createdAt": "2025-09-08",
+      "updatedAt": "2025-11-23"
+    }
+  ]
+}
